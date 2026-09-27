@@ -30,6 +30,9 @@ The API is then available at the local URL shown in the terminal.
 }
 ```
 
+## Fetch the data
+[Fetch Menu](https://menu-api-v1vc.onrender.com/api/menu)
+
 ## License
 
 This project is for learning and demonstration purposes.
